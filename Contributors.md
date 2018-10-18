@@ -50,5 +50,7 @@
 - [Francesco Mistri](https://github.com/Ball-Man)
 - [Paulo Henrique](https://github.com/paulokenza)
 - [Mike Perry Y Attara](https://github.com/mikeattara)
+- [Ashish Khakural](https://github.com/Ashishkhakural)
+
 
 
